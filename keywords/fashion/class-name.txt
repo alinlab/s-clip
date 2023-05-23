@@ -1,0 +1,56 @@
+backpack
+bag accessory
+belt
+suspender
+blanket
+boat shoe
+moccasin
+boot
+briefcase
+clutch
+pouch
+dress
+top handle bag
+duffle bag
+espadrilles
+eyewear
+fine jewelry
+flat
+glove
+hat
+heel
+jacket
+coat
+jean
+jewelry
+jumpsuit
+keychain
+lace up
+lingerie
+loafer
+messenger bag
+satchel
+monkstrap
+pant
+pocket square
+tie bar
+pouch
+document holder
+sandal
+scarf
+shirt
+short
+shoulder bag
+skirt
+sneaker
+sock
+suit
+blazer
+sweater
+swimwear
+tie
+top
+tote bag
+travel bag
+underwear
+loungewear

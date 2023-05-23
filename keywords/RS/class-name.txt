@@ -1,0 +1,45 @@
+agricultural
+airplane
+airport
+bare land
+baseball diamond
+baseball field
+beach
+bridge
+buildings
+center
+chaparral
+church
+commercial
+dense residential
+desert
+farmland
+forest
+freeway
+golf course
+harbor
+industrial
+intersection
+meadow
+medium residential
+mobile home park
+mountain
+overpass
+park
+parking
+parking lot
+playfields
+playground
+pond
+port
+railway station
+resort
+river
+runway
+school
+sparse residential
+square
+stadium
+storage tanks
+tennis court
+viaduct
