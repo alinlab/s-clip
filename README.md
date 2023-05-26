@@ -1,7 +1,7 @@
 # S-CLIP: Semi-supervised CLIP
 
 Implementation of the S-CLIP algorithm described in
-["**S-CLIP: Semi-supervised Vision-Language Pre-training using Few Specialist Captions**."]()
+["**S-CLIP: Semi-supervised Vision-Language Pre-training using Few Specialist Captions**."](https://arxiv.org/abs/2305.14095)
 
 S-CLIP improves the training of CLIP in scenarios where only a few image-text pairs are available
 by incorporating unpaired images alongside the image-text pairs.
